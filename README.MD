@@ -2,5 +2,5 @@
 ## Getting started with Rust !!
 
 ~~~rust
-Just run clone and run using **cargo run**.
+Just clone and run using cargo run.
 ~~~
